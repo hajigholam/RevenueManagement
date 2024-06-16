@@ -1,1 +1,1 @@
-This repo included my case study for Airline Revene Management and Pricing Analysis.
+This repo included my case study for Airline Revenue Management and Pricing Analysis. In the Excel file, some graphs and tables showcase the industry standards KPIs, their explanations, and other relevant metrics useful in making informed decisions. There are some revenue management and pricing questions in the Excel file as well which are addressed in the PDF presentation.
